@@ -1,2 +1,2 @@
-# c-intro-gbs
-introduction to C programming language at gbs
+# GBS-C
+is a place for me to store all my c-related stuff from GBS
