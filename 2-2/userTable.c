@@ -20,10 +20,11 @@ int print_table(struct User users[], int size) {
 
 int main() {
     // create users
-    struct User users[3] = {
+    struct User users[4] = {
         {1, "Peter", "Oester", "Sankt Gallen"},
         {2, "Marc", "Benz", "Herisau"},
         {3, "Sarah", "Meier", "Rorschach"},
+        {4, "Julian", "Saxer", "Gossau"},
     };
 
     print_table(users, sizeof(users) / sizeof(users[0]));
