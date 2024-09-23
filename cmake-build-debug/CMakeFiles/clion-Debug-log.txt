@@ -1,1 +1,0 @@
-CMakeLists.txt not found in \\wsl.localhost\Arch\home\d1msk1y\documents\projects\c-intro-gbs Select CMakeLists.txt
